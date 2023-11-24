@@ -218,6 +218,14 @@
     gap: 20px;
 }
 
+.product-heading,
+.product-text,
+.product-star,
+.content3-price {
+    position: relative;
+    left: 20px;
+}
+
 .content3-product {
     margin-right: 20px;
     float: left;
