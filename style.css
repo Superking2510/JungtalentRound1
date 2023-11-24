@@ -327,6 +327,10 @@
     line-height: 36px;
 }
 
+.content5-footer {
+    margin-top: 36px;
+}
+
 .content5-text-more {
     border: 1px solid #FADCD9;
     border-radius: 30px;
@@ -817,23 +821,28 @@
         width: 100%;
     }
 
+    .content5-footer {
+        margin-top: 24px;
+    }
+
 
     .content5-text-heading {
         font-size: 14px;
         line-height: 28px;
-        padding: 40px 0;
+        padding: 40px 0 20px 0;
         margin-bottom: 0px;
     }
 
     .content5-text-text {
         font-size: 12px;
+        line-height: 24px;
     }
 
     .content5-text-more {
         width: 280px;
         height: 38px;
         padding: 0 8px 0 10px;
-        margin-top: 40px;
+        margin-top: 20px;
         font-size: 10px;
         gap: 0;
     }
@@ -876,6 +885,11 @@
 
     .footer-title {
         font-size: 14px;
+        line-height: 21px;
+    }
+
+    .mg-10 {
+        margin: 10px 0 20px 0 !important;
     }
 
     .footer-option {
