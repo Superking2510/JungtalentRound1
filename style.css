@@ -735,6 +735,7 @@
     .content-3-body {
         display: grid;
         grid-template-columns: auto auto;
+        gap: 10px;
     }
 
     .content-3-product {
